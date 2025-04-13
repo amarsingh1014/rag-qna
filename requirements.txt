@@ -3,4 +3,5 @@ langchain_core
 langchain_groq
 langchain_chroma
 streamlit
+langchain_community
 pypdf
