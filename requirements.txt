@@ -5,3 +5,4 @@ langchain_chroma
 streamlit
 langchain_community
 pypdf
+sentence-transformers
